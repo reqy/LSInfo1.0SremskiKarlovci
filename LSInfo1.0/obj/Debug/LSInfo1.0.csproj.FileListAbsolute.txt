@@ -1,0 +1,29 @@
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\bin\Debug\LSInfo1.0.exe
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\bin\Debug\LSInfo1.0.pdb
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Form1.resources
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Properties.Resources.resources
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.csproj.GenerateResource.Cache
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.exe
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.pdb
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Form2.resources
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.exe
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.pdb
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\bin\Debug\LSInfo1.0.exe
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\bin\Debug\LSInfo1.0.pdb
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Form1.resources
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Form2.resources
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.Properties.Resources.resources
+C:\Users\Popis\Desktop\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1.0.csproj.GenerateResource.Cache
+D:\moji projekti C#\XO\LSInfo1.0\LSInfo1.0\obj\Debug\LSInfo1._0.passForm.resources
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1.0.exe
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1.0.pdb
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\bin\Debug\LSInfo1.0.exe
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\bin\Debug\LSInfo1.0.pdb
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\ResolveAssemblyReference.cache
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1._0.Form1.resources
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1._0.Form2.resources
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1._0.passForm.resources
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1._0.Properties.Resources.resources
+D:\moji projekti C#\XO\LSInfo1.0SremskiKarlovci\LSInfo1.0\obj\Debug\LSInfo1.0.csproj.GenerateResource.Cache
